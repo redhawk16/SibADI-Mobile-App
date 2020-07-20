@@ -91,7 +91,7 @@
 <img src="screens/screenshot-2020-07-20_16.08.21.601.png?raw=true" alt="Exams Chart" title="Учебный график группы" height="700"><br>
 На странице «Учебный график», отображается график зачетов и экзаменов, который сгруппирован по типам контроля. Каждая дисциплина содержит информацию о дате проведения контроля, ФИО преподавателя, количестве часов по учебному плану и об аббревиатуре кафедры, на которой данная дисциплина читается.
 
-### Страница "Заметки"**<br>
+### Страница "Заметки"<br>
 <p align="center">
   <img src="screens/screenshot-2020-07-20_16.09.05.47.png?raw=true" alt="Notes Fragment" title="Страница &quot;Заметки&quot;" height="700"><br>
 </p>
@@ -118,6 +118,8 @@
 </p>
 
 ### Видео демонстрация мобильного приложения "СибАДИ.Студент"<br>
-<a href="https://youtu.be/RrcuJFIZo18" align="center">
+<a href="https://youtu.be/RrcuJFIZo18"> 
+  <p align="center">
   <img src="screens/screenshot-2020-07-21_01.33.13.875.png" alt="Watch the video" height="700">
+  </p>
 </a>
